@@ -1,8 +1,8 @@
 # First glance at Docker (Chat app)
 ## Tech:
--Laravel
--Vue js
--Vite
+- Laravel
+- Vue js
+- Vite
 
 ## Sources:
 
