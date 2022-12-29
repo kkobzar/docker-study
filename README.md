@@ -1,10 +1,16 @@
-# First glance at Docker
+# First glance at Docker (Chat app)
+## Tech:
+-Laravel
+-Vue js
+-Vite
+
 ## Sources:
 
-# YT
+### YT
 https://www.youtube.com/watch?v=3c-iBn73dDE
+https://www.youtube.com/watch?v=CkRGJC0ytdU&t=293s
 
-# Docker image for laravel:
+### Docker image for laravel:
 https://hub.docker.com/r/bitnami/laravel
 
 ## Docker basics
