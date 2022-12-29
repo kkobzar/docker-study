@@ -1,5 +1,5 @@
 <template>
-    <AppLayout title="Dashboard">
+    <AppLayout title="Chat">
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
                 <ChatRoomSelection
