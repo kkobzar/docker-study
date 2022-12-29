@@ -40,7 +40,7 @@ Route::middleware([
     config('jetstream.auth_session'),
     'verified',
 ])->get('/chat',function (){
-    return Inertia::render('Chat/container');
+    return Inertia::render('Chat/Container');
 })->name('chat');
 
 Route::middleware('auth:sanctum')->get('/chat/rooms',[ChatController::class,'rooms']);
