@@ -27,6 +27,6 @@ In contrast virtual machines are running on a hypervisor (responsible for runnin
 ## Docker commands cheatsheet
 
 `docker-compose build --no-cache` - dont use cache
-
+`docker-compose up --force-recreate` - use fresh containers
 
 `docker exec -it [CONTAINER_ID] bash` - open bash on container
